@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuantumChess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuantumChess_jar</output-path>
+    <root id="archive" name="QuantumChess.jar">
+      <element id="module-output" name="QuantumChess" />
+      <element id="library" level="project" name="ChessApplet2" />
+    </root>
+  </artifact>
+</component>
